@@ -22,4 +22,26 @@
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/> &nbsp;
 
-<!--END_SECTION:waka-->
+### 📈 User Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=ThanhHai9351">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhHai9351&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThanhHai9351">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThanhHai9351&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>  
+</table>
