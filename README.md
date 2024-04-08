@@ -43,6 +43,9 @@
 >  <a href="./Certificate/java_basic_hackerraank.png">
 >    <img height="100px" width="150px" src="./Certificate/java_basic.png" alt="sql advanced skill"/>
 > </a>
+>  <a href="./Certificate/sql_basic_hackerrank.png">
+>    <img height="100px" width="150px" src="./Certificate/sql_basic.png" alt="sql advanced skill"/>
+> </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
