@@ -27,9 +27,6 @@
 <img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=007ACC"  title="PHP" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Tailwind-282C34?logo=Tailwind&logoColor=007ACC" title="Taiwind" height="25"/>
 
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 > ## 🐱My Certificates
@@ -42,6 +39,9 @@
 > </a>
 > <a href="./Certificate/HoiThaoKhoaHocKhoaCNTT_AntColonyOptimization.pdf">
 >    <img height="100px" width="150px" src="./Certificate/HoiThaoCNTT.png" alt="sql advanced skill"/>
+> </a>
+>  <a href="./Certificate/java_basic_hackerraank.png">
+>    <img height="100px" width="150px" src="./Certificate/java_basic.png" alt="sql advanced skill"/>
 > </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
