@@ -49,6 +49,9 @@
 > <a href="./Certificate/python_basic_hackerrannk.png">
 >    <img height="100px" width="150px" src="./Certificate/python_basic.png" alt="sql advanced skill"/>
 > </a>
+>  <a href="./Certificate/javascript_inter_hackerrank.png">
+>    <img height="100px" width="150px" src="./Certificate/javascript_inter.png" alt="sql advanced skill"/>
+> </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
