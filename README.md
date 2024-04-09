@@ -37,14 +37,14 @@
 > <a href="./Certificate/Hồ Thanh Hải JavaScript Basic Certificate.png">
 >    <img height="100px" width="150px" src="./Certificate/Hồ Thanh Hải JavaScript Basic Certificate.png" alt="sql advanced skill"/>
 > </a>
-> <a href="./Certificate/HoiThaoKhoaHocKhoaCNTT_AntColonyOptimization.pdf">
->    <img height="100px" width="150px" src="./Certificate/HoiThaoCNTT.png" alt="sql advanced skill"/>
-> </a>
 >  <a href="./Certificate/java_basic_hackerraank.png">
 >    <img height="100px" width="150px" src="./Certificate/java_basic.png" alt="sql advanced skill"/>
 > </a>
 >  <a href="./Certificate/sql_basic_hackerrank.png">
 >    <img height="100px" width="150px" src="./Certificate/sql_basic.png" alt="sql advanced skill"/>
+> </a>
+> <a href="./Certificate/sql_interm_hackerrank.png">
+>    <img height="100px" width="150px" src="./Certificate/sql_interm.png" alt="sql advanced skill"/>
 > </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
