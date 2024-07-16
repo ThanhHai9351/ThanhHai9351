@@ -1,3 +1,4 @@
+ <img src="svg/thanhhai.svg" width="1200" alt="" />
 <!--### <p>Hi There ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></p>-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Hồ+Thanh+Hải;My+Hometown+is+Bình+Định.+%F0%9F%98%84;Nice+to+Meet+You+!!!...)](https://github.com/ThanhHai9351)
@@ -14,18 +15,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="CSharp" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" title="HTML5" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" title="CSS3" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" title="Bootstrap" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=007ACC"  title="PHP" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Tailwind-282C34?logo=Tailwind&logoColor=007ACC" title="Taiwind" height="25"/>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%230081CB.svg?style=for-the-badge&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%230A0A0A.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
