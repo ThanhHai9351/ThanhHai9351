@@ -56,6 +56,12 @@
 > <a href="./Certificate/fd_react_hackerrank.png">
 >    <img height="100px" width="150px" src="./Certificate/fd_react.png" alt="sql advanced skill"/>
 >  </a>
+> <a href="./Certificate/SE_Intern_hackerrank.png">
+>    <img height="100px" width="150px" src="./Certificate/SE_Intern.png" alt="sql advanced skill"/>
+>   </a>
+> <a href="./Certificate/SE_hackerrank.png">
+>    <img height="100px" width="150px" src="./Certificate/SE.png" alt="sql advanced skill"/>
+>   </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
